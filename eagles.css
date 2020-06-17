@@ -1,0 +1,44 @@
+audio{
+    
+    
+    padding:22px;
+}
+.h21{
+    text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color: #46cdcf;
+    
+}
+button{
+
+  left:20px;
+ 
+position: relative;
+}
+p{  text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color: #46cdcf;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+ hr{
+    
+    border:2px solid blue;
+
+}
+FOOTER{
+        
+         text-align: center;
+    border: 2px ;
+    border-style:double;
+    background-color:black;
+    color:chartreuse;
+     font-family: sans-serif;
+     font-weight: bolder;
+        font-style: oblique;
+    margin-bottom:100PX;
+    }
+
+    
